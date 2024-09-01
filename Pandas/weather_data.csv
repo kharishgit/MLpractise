@@ -1,0 +1,21 @@
+Date,City,Temperature,Windspeed,Event
+2023-08-01,New York,84,10,Cloudy
+2023-08-02,New York,76,8,Snow
+2023-08-03,New York,79,13,Sunny
+2023-08-04,New York,84,6,Snow
+2023-08-05,New York,70,7,Snow
+2023-08-01,Los Angeles,77,9,Sunny
+2023-08-02,Los Angeles,88,8,Cloudy
+2023-08-03,Los Angeles,83,8,Sunny
+2023-08-04,Los Angeles,80,7,Cloudy
+2023-08-05,Los Angeles,79,6,Sunny
+2023-08-01,Chicago,79,18,Sunny
+2023-08-02,Chicago,77,12,Cloudy
+2023-08-03,Chicago,72,20,Sunny
+2023-08-04,Chicago,66,14,Snow
+2023-08-05,Chicago,79,12,Cloudy
+2023-08-01,Houston,80,12,Snow
+2023-08-02,Houston,89,10,Rain
+2023-08-03,Houston,91,12,Sunny
+2023-08-04,Houston,89,5,Cloudy
+2023-08-05,Houston,91,11,Snow
